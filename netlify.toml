@@ -1,4 +1,0 @@
-[[redircts]]
-from = "/*"
-to= "/weather.py"
-status = 200
